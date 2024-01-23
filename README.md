@@ -2,7 +2,7 @@
 
 - 📞 +1 951 222 9195
 - 🔗 [LinkedIn - https://www.linkedin.com/in/shrey-k-sinha/](https://linkedin.com/in/shrey-k-sinha)
-- 📧 [Email](mailto:ssinh017@ucr.edu)
+- 📧 [Email - ssinh017@ucr.edu](mailto:ssinh017@ucr.edu)
 
 ## Education
 
