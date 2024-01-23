@@ -33,7 +33,7 @@
 
 ## Projects
 
-### Grader Dashboard
+### [Grader Dashboard](https://github.com/shreks99/Grader-Dashboard)
 - *September 2023 - December 2023*
 - A platform offering visualization of student performance with RESTful APIs.
 
