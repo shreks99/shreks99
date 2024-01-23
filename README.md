@@ -46,7 +46,8 @@
 
 ## Achievements
 
-- Second Place in UCRPC 2023, a competitive coding contest with 200+ participants.
+- UC Riverside Programming Challenge(UCRPC 2023), Received Second Place in a competitive coding
+contest of 200+ participants across PhD, Master’s, and Bachelor’s levels, solving algorithmic challenges.
 
 ## Publications
 
