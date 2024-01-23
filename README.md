@@ -36,7 +36,7 @@
 - *September 2023 - December 2023*
 - A platform offering visualization of student performance with RESTful APIs.
 
-### Parallel Algorithm for Quicksort
+### [Parallel Algorithm for Quicksort](https://github.com/ucrparlay-class/project1-shreks99)
 - *February 2023 - March 2023*
 - Implemented a parallel version of Quicksort algorithm reducing sorting time significantly.
 
