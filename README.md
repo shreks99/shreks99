@@ -38,7 +38,7 @@
 
 ### [Parallel Algorithm for Quicksort](https://github.com/ucrparlay-class/project1-shreks99)
 - *February 2023 - March 2023*
-- Implemented a parallel version of Quicksort algorithm reducing sorting time significantly.
+- Implemented a parallel version of the Quicksort algorithm reducing sorting time than the standard sorting library.
 
 ### JWT Authentication App
 - *December 2022 - January 2023*
