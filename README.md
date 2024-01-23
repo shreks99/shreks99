@@ -1,8 +1,7 @@
-# Shrey Sinha
+# System.out.println("Shrey Sinha");
 
 - 📞 +1 951 222 9195
-- 🔗 [LinkedIn](https://linkedin.com/in/shrey-k-sinha)
-- 🐙 [GitHub](https://github.com/shreks99)
+- 🔗 [LinkedIn - https://www.linkedin.com/in/shrey-k-sinha/](https://linkedin.com/in/shrey-k-sinha)
 - 📧 [Email](mailto:ssinh017@ucr.edu)
 
 ## Education
