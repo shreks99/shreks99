@@ -56,9 +56,9 @@ a robust networking framework, leveraging TCP/IP and UDP protocols to optimize d
 ### [Grader Dashboard](https://github.com/shreks99/Grader-Dashboard)
 - A platform offering visualization of student performance with RESTful APIs.
   
-### JWT Authentication App
+<!--### JWT Authentication App
 - Developed a secure application with JWT-based user authentication.
-
+-->
 ## Experience
 
 ### Software Engineer | NICE Ltd., Pune India
