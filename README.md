@@ -40,7 +40,7 @@ I'm a Computer Science Master's Student and an aspiring Software Developer!
 
 ## 🚀 My Projects:
 
-### [WebRTC SDK Project](In progress)
+### WebRTC SDK Project(In progress)
 - Implemented core features such as conference handling, audio/video muting, and device switching within
 a robust networking framework, leveraging TCP/IP and UDP protocols to optimize data transmission.
 
