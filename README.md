@@ -85,14 +85,9 @@ contest of 200+ participants across PhD, Master’s, and Bachelor’s levels, so
 
 ## Let's Connect
 ### Feel free to reach out to me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-more99/)
 - 📞 +1 951 222 9195
-- 🔗 [LinkedIn - https://www.linkedin.com/in/shrey-k-sinha/](https://linkedin.com/in/shrey-k-sinha)
+- 🔗 [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-k-sinha)
 - 📧 [Email - ssinh017@ucr.edu](mailto:ssinh017@ucr.edu)
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreks99">
-</p>
 
 <!--
 **shreks99/shreks99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
