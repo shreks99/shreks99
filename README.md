@@ -40,14 +40,18 @@ I'm a Computer Science Master's Student and an aspiring Software Developer!
 
 ## 🚀 My Projects:
 
+### [WebRTC SDK Project](In progress)
+- Implemented core features such as conference handling, audio/video muting, and device switching within
+a robust networking framework, leveraging TCP/IP and UDP protocols to optimize data transmission.
+
+### [FPGA Implementation of TFHE](https://github.com/shreks99/fpga-tfhe)
+- FPGA implementation of Fully Homomorphic Encryption Over the Torus algorithm with Vivado HLS.
+
 ### [Parallel Algorithm for Quicksort](https://github.com/ucrparlay-class/project1-shreks99)
 - Implemented a parallel version of the Quicksort algorithm reducing sorting time than the standard sorting library.
 
 ### [Parallel Algorithm for BFS](https://github.com/ucrparlay-class/project2-shreks99)
 - Implemented a parallel version of the BFS reducing traversal time in various types of networks.
-  
-### [FPGA Implementation of TFHE](https://github.com/shreks99/fpga-tfhe)
-- FPGA implementation of Fully Homomorphic Encryption Over the Torus algorithm with Vivado HLS.
 
 ### [Grader Dashboard](https://github.com/shreks99/Grader-Dashboard)
 - A platform offering visualization of student performance with RESTful APIs.
